@@ -1,0 +1,11 @@
+C;Volt;55000;0;true;true;eletronica;true
+C;Onix;35000;1000;false;true;hidraulica;false
+C;Onix;40000;1000;true;true;hidraulica;false
+C;T-CROSS;55000;2000;true;true;eletronica;false
+C;UP;30000;1000;false;true;hidraulica;false
+M;Hulk;85000;8;20000;25
+M;Thor;110000;12;40000;30
+M;Thanos;150000;16;65000;38
+O;Mercedes;90000;40;80;false
+O;LightBus;110000;38;70;true
+O;Travel;140000;60;60;false

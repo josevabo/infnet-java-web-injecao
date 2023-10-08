@@ -1,0 +1,4 @@
+Sao Bernardo 1;Avenida Anchieta, 1000, Sao Bernardo do Campo/SP
+Sao Bernardo 2;Avenida Imigrantes, 334, Sao Bernardo do Campo/SP
+Porto Alegre 1;Rua Maldonado, 14, PortoAlegre/RS
+Niteroi AV;Av Marechal Deodoro, 1, Niteroi/RJ

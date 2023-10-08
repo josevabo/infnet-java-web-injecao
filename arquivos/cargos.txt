@@ -1,0 +1,3 @@
+Assistente;false
+Carregador;false
+Supervisor;true
